@@ -1,0 +1,9 @@
+hola mi nombre es german garcia
+
+soy de monterrey nl
+
+soy ing en electronica
+
+no me gusta el futbol socer
+
+esto es para el curso de git
